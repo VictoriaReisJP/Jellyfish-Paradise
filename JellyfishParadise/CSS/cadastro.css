@@ -1,0 +1,85 @@
+
+
+header{
+   background-color: #C8F2EF;
+    font-family: "Petit Formal Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #288289;
+    height:auto;
+    width: auto;
+    text-align: center;
+    display: flex;
+
+
+}
+
+#jellyfish_logo{
+    width: 100px;
+}
+
+.paradise{
+  
+  margin-left: 0 auto;
+  margin-top: 5px;
+  width: 1500px;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+.welcome{
+    font-size: 30px;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #CB9FBB;
+
+}
+
+.campos_respostas{
+   text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    font-family: "Bona Nova SC", serif;
+    color: #06C3D0;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+h3{
+    font-size: 30px;
+    font-family: "Bona Nova SC", serif;
+    color: #06C3D0;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+#bt_login{
+    background-color:#CB9FBB ;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+    transition-duration: 0.4s;
+}
+
+#bt_login:hover{
+    background-color: white;
+    border: 2px solid #CB9FBB;
+    color: #CB9FBB;
+}
+
+
+label{
+    color: #06C3D0;
+}

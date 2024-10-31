@@ -1,0 +1,176 @@
+header{
+    background-color: #C8F2EF;
+    font-family: "Petit Formal Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #37B9C5;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-self: auto;
+    flex-wrap: wrap;
+   
+   
+  }
+  
+   #jellyfish_logo{
+      width: 100px;
+  }
+  
+  button{
+    background-color: #C8F2EF;
+    border: none;
+    color: #37B9C5;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    height: 115px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Bona Nova SC", serif;
+  }
+  
+  .dropdown{
+    background-color: #C8F2EF; /* Green */
+    color: #37B9C5;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 50px;
+    height: 110px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Bona Nova SC", serif;
+  }
+  
+  #bt_cadastro{
+    background-color: #C8F2EF; /* Green */
+    border: none;
+    color: #37B9C5;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Bona Nova SC", serif;
+    height: 110px;
+  }
+  
+  #bt_consulta{
+    background-color: #C8F2EF; /* Green */
+    border: none;
+    color: #37B9C5;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Bona Nova SC", serif;
+    height: 110px;
+  }
+  
+  #bt_sair{
+    background-color: #C8F2EF; /* Green */
+    border: none;
+    color: #37B9C5;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Bona Nova SC", serif;
+    height: 110px;
+  }
+  
+  #bt_inicio{
+    background-color: #C8F2EF; /* Green */
+    border: none;
+    color: #37B9C5;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Bona Nova SC", serif;
+    height: 110px;
+  }
+   
+  #bt_inicio:hover{
+    color: white;
+    background-color: #37B9C5;
+  }
+  
+  #bt_cadastro:hover{
+    color: white;
+    background-color: #37B9C5;
+  }
+  
+  #bt_consulta:hover{
+    color: white;
+    background-color: #37B9C5;
+  }
+  
+  #bt_sair:hover{
+    color: white;
+    background-color: #37B9C5;
+  }
+  
+  .corpo{
+    display:flex;
+      width: 100%;
+      align-self: center;
+      align-items: center;
+      justify-content: center;
+  }
+  
+  body{
+      align-content: center;	
+      justify-content: center;
+  }
+  
+  tudo{
+    align-content: center;	
+      justify-content: center;
+    display: flex;
+    text-align: center;
+    
+  }
+  
+  li{
+      font-size: 30px;
+      justify-content: center;
+      align-items: center;
+    color: #37B9C5;
+    transition-duration: 0.4s;
+    width: auto;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  ul{
+      font-size: 30px;
+      justify-content: center;
+      align-items: center;
+    color: #37B9C5;
+    transition-duration: 0.4s;
+    animation-duration: 3s;
+    width: 300px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  
+  
